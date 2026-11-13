@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://veterinariovallecas.com/sitemap.xml
